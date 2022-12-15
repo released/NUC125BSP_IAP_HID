@@ -26,7 +26,7 @@ update @ 2022/12/15
 
 ![image](https://github.com/released/NUC125BSP_IAP_HID/blob/main/ISP_User_03.jpg)
 
-- KEIL project modify , LINK add sct file , and fix ISP code to address : 0x0000
+- KEIL project modify , Linker add sct file , and fix ISP code to address : 0x0000
 
 ![image](https://github.com/released/NUC125BSP_IAP_HID/blob/main/LDROM_KEIL_sct.jpg)
 
