@@ -48,7 +48,7 @@ update @ 2022/12/15
 
 - config , set boot : APROM with IAP
 
-![image](https://github.com/released/NUC125BSP_IAP_HID/blob/main/application_RO.jpg)
+![image](https://github.com/released/NUC125BSP_IAP_HID/blob/main/ICP_Config.jpg)
 
 - programming ISP code to APROM address : 0x0000 
 
